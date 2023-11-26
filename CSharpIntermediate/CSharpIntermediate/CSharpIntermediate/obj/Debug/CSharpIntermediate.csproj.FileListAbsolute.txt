@@ -1,0 +1,14 @@
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.AssemblyReference.cache
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\Inayat.Syed\source\MyGit\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
